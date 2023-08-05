@@ -31,9 +31,5 @@ export default defineNuxtConfig({
               }
         ],
     }
-},
-modules: ['nuxt-gtag'],
-gtag: {
-    id: 'G-51ENZV7X8N'
-  }
+}
 })
