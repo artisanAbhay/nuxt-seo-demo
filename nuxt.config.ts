@@ -25,6 +25,6 @@ export default defineNuxtConfig({
 },
 modules: ['nuxt-gtag'],
 gtag: {
-    id: 'GTM-5R5XBHMV'
+    id: 'G-51ENZV7X8N'
   }
 })
